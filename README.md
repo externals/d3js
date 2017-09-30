@@ -35,3 +35,9 @@ Then checkout the "packages" branch and merge your version into it. result:
 ./v2.0.1/d3.js
 ./v2.0.1/README.txt
 ./README.md (this README file)
+
+
+# Changelog
+    2017-09
+    Adds version 3.5.17
+    Adds version 4.10.2
